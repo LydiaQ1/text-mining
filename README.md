@@ -1,7 +1,6 @@
 # text-mining
 
 ## 1. Project Overview
-(What data source(s) did you use and what technique(s) did you use analyze/process them? What did you hope to learn/create?)
 I used the news article 'Biden assumes presidency at Capitol saying 'democracy has prevailed' from 'ABC News' as my source. The news article is published on the day of Joe Biden's inauguration day back in January 20, 2021. As one of the most well-known news media in the U.S., I think it will be particularly interesting to see the words choice of the article to see what kind of information they were trying to deliver to the audience, in other words, a glimpse of ABC's attitude towards the new president. The techniques I used include: Characterizing by Word Frequencies, and Natural Language Processing (Sentiment Analysis).
 
 ## 2. Implementation
