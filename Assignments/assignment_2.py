@@ -1,6 +1,5 @@
 from newspaper import Article
 import nltk   # install the Natural Language Toolkit
-nltk.download('punkt')   # Punkt Sentence Tokenizer divides a text into a list of sentences
 nltk.download('vader_lexicon')
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import sys
