@@ -80,8 +80,6 @@ def main():
     many times they've appeared in a descending order, without stopwords in the stopwords.txt file.
     """
     text = clean_text(article.text)
-    # filename = open("/Users/z/Desktop/2022 Fall/OIM/text-mining/Assignments/stopwords.txt","r")
-    # d = stop_words(filename)
     freq = most_common(text)
     print(freq)
 
