@@ -48,7 +48,6 @@ def get_sentiment_score(text):
 
 def main():
     res = {} 
-
     for media, urls in MEDIAS.items():
         res[media] = []
         for url in urls:
